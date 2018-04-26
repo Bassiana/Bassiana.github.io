@@ -18,12 +18,12 @@ img{
 #header{
 	text-align:center;
 	position:fixed;
-	height:20%;
+	height:15%;
 	background-color:#FFF1DA;
 	width:100%;
 }
 #notvisible{
-	height:20%;
+	height:15%;
 	opacity:1;
 	background-color:red;
 }
@@ -33,7 +33,7 @@ p{
 }
 h1{
 	font-size:48px;
-	padding:2% 0% 4%;
+	padding:2% 0%;
 	letter-spacing:5px;
 	background-color:#FFF1DA;
 }
@@ -45,9 +45,10 @@ h1{
 .topnav{
 	text-align:center;
 	margin:0%;
-	padding: 0% 0%;
+	padding: 2% 0% 0.5%;
 	clear:both;
 	background-color:#FFF1DA;
+	vertical-align:bottom;
 }
 .topnav a{
 	margin:0% 8%;
