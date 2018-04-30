@@ -11,6 +11,9 @@ html,body{
 img{
 	width:100%;
 }
+a{
+	text-decoration:none;
+}
 #wrapper{
 	text-align:center;
 	height:100%;
@@ -66,7 +69,6 @@ h1{
 	text-align:center;
 	background-color:white;
 	background-image:url("slike/brickwall.png");
-	
 }
 .text p{
 	width:800px;
@@ -74,12 +76,12 @@ h1{
 	margin:0px auto;
 	color:grey; 
 }
-#second{
+#Sala{
     /* The image used */
     background-image: url("slike/prostor.png");
 	
     /* Set a specific height */
-    height: 60%; 
+    height: 50%; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -87,12 +89,12 @@ h1{
     background-repeat: no-repeat;
     background-size: contain;
 }
-#third{
+#Kontakt{
     /* The image used */
     background-image: url("slike/sala.png");
 	
     /* Set a specific height */
-    height: 60%; 
+    height: 50%; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
