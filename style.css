@@ -69,6 +69,7 @@ h1{
 	text-align:center;
 	background-color:white;
 	background-image:url("slike/brickwall.png");
+	width:94%;
 }
 .text p{
 	width:800px;
